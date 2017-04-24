@@ -5,10 +5,10 @@ This project is to use pi camera on Telescope. This project is design to be prin
 The Pi camera used is the version V2.1. It should works with V2.0 and V1.2. Pi camera Noir should works too.
 The telescope used is a Celestron Astromaster 90 but should works on other brand.
 
-You are free to improve this project. All source file are downloadable in this project and avalable at thingiverse (http://www.thingiverse.com/thing:2121976) or github (https://github.com/Inglebard/RPCCS.git) .
+You are free to improve this project. All source file are downloadable in this project and avalable at thingiverse (http://www.thingiverse.com/thing:2121976) or github (https://github.com/Inglebard/RPCCS.git).
 
 ### Software used :
-Freecad
+Freecad ( with BOLTS http://www.bolts-library.org/fr/index.html)
 Cura 2.5
 
 #### Important :
@@ -16,11 +16,16 @@ Some parts fit hardly, you may need some tools for sanding some parts.
 I am not an expert on Freecad, so sorry if files are not "clean".
 You may use raft if you have some wrapping issue.
 
+Some part are inspired from :
+
+@muzz64 (Murray CLARK) : http://www.thingiverse.com/thing:2237509
+@mike_mattala (Mike MATTALA) : http://www.thingiverse.com/thing:193647
+
 #### How to print it ? :
 
 All part should be print with 0.1mm, 10% infill is enought. Some part can be replace with metal part but the weight can be an issue if it's not balanced.
 
-Axis can be switch with Axis_alternate but you will be not able to lock the camera on axis with ring support.obj so it's useless to print it in this case
+Axis can be switch with Axis_alternate but you will be not able to lock the camera on axis with ring support.obj so it's useless to print it in this case.
 
 
 ### Print Settings
